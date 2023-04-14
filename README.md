@@ -1,5 +1,8 @@
+<img src="markdownmonstericon.png", alt="Markdown Monster icon", style="float: left; margin-right: 10px;" />
+
+
 <div align="left">
- 
+
 [![](https://img.shields.io/badge/Colab-white?logo=googlecolab)](#) 
 [![](https://img.shields.io/badge/Tensorflow-white?logo=Tensorflow)](#)
 [![](https://img.shields.io/badge/Keras-red?logo=Keras)](#)
