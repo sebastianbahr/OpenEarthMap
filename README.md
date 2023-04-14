@@ -1,4 +1,4 @@
-<img src="markdownmonstericon.png", alt="Markdown Monster icon", style="float: left; margin-right: 10px;" />
+<img src="https://github.com/sebastianbahr/OpenEarthMap/blob/main/images/inference_CV1.png" alt="Title iamge 1" style="float: left; margin-right: 0px;" />
 
 
 <div align="left">
