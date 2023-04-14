@@ -1,5 +1,5 @@
-<img src="https://github.com/sebastianbahr/OpenEarthMap/blob/main/images/inference_CV1.png" alt="Title image 1" style="margin: 0px 0px 0px 0px; padding: 0px 0px 0px 0px;" />
-<img src="https://github.com/sebastianbahr/OpenEarthMap/blob/main/images/inference_CV2.png" alt="Title image 2" style="margin: 0px 0px 0px 0px; padding: 0px 0px 0px 0px;" />
+<img src="https://github.com/sebastianbahr/OpenEarthMap/blob/main/images/inference_CV1.png" alt="Title image 1" class="center" style="margin: 0px 0px 0px 0px; padding: 0px 0px 0px 0px;" />
+<img src="https://github.com/sebastianbahr/OpenEarthMap/blob/main/images/inference_CV2.png" alt="Title image 2" class="center" style="margin: 0px 0px 0px 0px; padding: 0px 0px 0px 0px;" />
 
 <div align="left">
 
