@@ -23,7 +23,7 @@ The satellite imagery and the corresponding masks are not available on this gith
 
 ## The model
 
-The model was trained in Keras using most of hyperparameters as suggested by [Xia et al. 2022](https://arxiv.org/abs/2210.10732). The model's performance is shown in the table bellow and correspond to the one found in the original paper. The pre-trained U-Net model with EfficenctNet B4 backbone is freely [available]() and can be used for inference on satellite images of size 512x512 and a resolution between 0.5m-1m per pixel. Higher resolution usually results in better performance. The code for model training and evaluation can be found in [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](). 
+The model was trained in Keras and most of the hyperparameters are used as suggested by [Xia et al. 2022](https://arxiv.org/abs/2210.10732). The model's performance is shown in the tables bellow and correspond to the one found in the original paper. The pre-trained U-Net model with EfficenctNet B4 backbone is freely [available]() and can be used for inference on satellite images of size 512x512 and a resolution between 0.5m-1m per pixel. Higher resolution usually results in better performance. The code for model training and evaluation can be found in [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](). 
 
 ### Without TTA
 | Metric | Bareland | Rangeland | Developed Space | Road | Tree | Water | Agriculture | Building | Avg.|
