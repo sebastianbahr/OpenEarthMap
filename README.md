@@ -1,5 +1,8 @@
-<img src="https://github.com/sebastianbahr/OpenEarthMap/blob/main/images/inference_CV1.png" alt="Title image 1" class="center" style="margin: 0px 0px 0px 0px; padding: 0px 0px 0px 0px;" />
-<img src="https://github.com/sebastianbahr/OpenEarthMap/blob/main/images/inference_CV2.png" alt="Title image 2" class="center" style="margin: 0px 0px 0px 0px; padding: 0px 0px 0px 0px;" />
+<img src="https://github.com/sebastianbahr/OpenEarthMap/blob/main/images/inference_CV1.png" alt="Title image 1" class="center" style="margin: 0px 0px 0px 0px; padding: 2px 2px 2px 2px;" />
+<img src="https://github.com/sebastianbahr/OpenEarthMap/blob/main/images/inference_CV2.png" alt="Title image 2" class="center" style="margin: 0px 0px 0px 0px; padding: 2px 2px 2px 2px;" />
+<img src="https://github.com/sebastianbahr/OpenEarthMap/blob/main/images/inference_CV3.png" alt="Title image 3" class="center" style="margin: 0px 0px 0px 0px; padding: 2px 2px 2px 2px;" />
+<img src="https://github.com/sebastianbahr/OpenEarthMap/blob/main/images/inference_CV4.png" alt="Title image 4" class="center" style="margin: 0px 0px 0px 0px; padding: 2px 2px 2px 2px;" />
+<img src="https://github.com/sebastianbahr/OpenEarthMap/blob/main/images/inference_CV5.png" alt="Title image 5" class="center" style="margin: 0px 0px 0px 0px; padding: 2px 2px 2px 2px;" />
 
 <div align="left">
 
