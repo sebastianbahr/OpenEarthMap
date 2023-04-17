@@ -38,5 +38,12 @@ The model was trained in Keras and most of the hyperparameters are used as sugge
 | F1 score | 0.73 | 0.72| 0.74 | 0.79 | 0.83 | 0.92 | 0.89 | 0.89 |0.81 |
 
 
+### With TTA only in developed countries
+| Metric | Bareland | Rangeland | Developed Space | Road | Tree | Water | Agriculture | Building | Avg.|
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| IoU    | 57.42 | 56.02 | 58.20 | 64.83 | 70.64 | 85.85 | 79.92 | 80.94 | 69.23 |
+| F1 score | 0.73 | 0.72| 0.74 | 0.79 | 0.83 | 0.92 | 0.89 | 0.89 |0.81 |
+
+
 
 
