@@ -37,7 +37,7 @@ The model was trained in Keras and most of the hyperparameters are used as sugge
 | IoU    | 57.96 | 56.13 | 58.09 | 64.85 | 70.57 | 86.04 | 79.82 | 80.92 | 69.30 |
 | F1 score | 0.730 | 0.719| 0.735 | 0.787 | 0.827 | 0.925 | 0.887 | 0.895 |0.813 |
 
-<img src="https://github.com/sebastianbahr/OpenEarthMap/blob/main/images/confusion_matrix.png" alt="Confusion matrix 1" class="center" style="margin: 0px 0px 0px 0px; padding: 2px 2px 2px 2px;" width="200"; height="200"/>
+<img src="https://github.com/sebastianbahr/OpenEarthMap/blob/main/images/confusion_matrix.png" alt="Confusion matrix 1" class="center" style="margin: 0px 0px 0px 0px; padding: 2px 2px 2px 2px;" width="800" height="800"/>
 
 ### With TTA only in developed countries
 | Metric | Bareland | Rangeland | Developed Space | Road | Tree | Water | Agriculture | Building | Avg.|
@@ -45,6 +45,6 @@ The model was trained in Keras and most of the hyperparameters are used as sugge
 | IoU    | 45.59 | 54.96 | 55.19 | 64.72 | 73.73 | 88.62 | 83.42 | 80.54 | 68.31 |
 | F1 score | 0.604 | 0.709| 0.711 | 0.786 | 0.847 | 0.940 | 0.909 | 0.892 |0.800 |
 
-<img src="https://github.com/sebastianbahr/OpenEarthMap/blob/main/images/confusion_matrix_dev.png" alt="Confusion matrix 2" class="center" style="margin: 0px 0px 0px 0px; padding: 2px 2px 2px 2px;" />
+<img src="https://github.com/sebastianbahr/OpenEarthMap/blob/main/images/confusion_matrix_dev.png" alt="Confusion matrix 2" class="center" style="margin: 0px 0px 0px 0px; padding: 2px 2px 2px 2px;" width="800" height="800"/>
 
 
